@@ -1,5 +1,6 @@
-Based on [todomvc / angularjs-perf](https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/angularjs-perf)
+Angular Todo base on Todomvc and using Yeoman
 
+* Based on [todomvc / angularjs-perf](https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/angularjs-perf)
 * used yeoman to create project
 
 --------
